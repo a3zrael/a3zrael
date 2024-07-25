@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-https://www.codewars.com/users/a3zrael/badges/large
+[<img src="codewars_profile_badges">](https://www.codewars.com/users/a3zrael/badges/large)
